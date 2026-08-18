@@ -6,7 +6,7 @@ PATH = "/layanhth"
 
 def handle():
     return {
-        "name": "Your Name",
-        "team": "your-team",
-        "wants": "one thing you want out of the six weeks",
+        "name": "Layan",
+        "team": "9",
+        "wants": "Learn Git and backend development",
     }
