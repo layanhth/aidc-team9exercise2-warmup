@@ -3,9 +3,10 @@
 # Files starting with _ are ignored, so this one never becomes an endpoint.
 
 PATH = "/ream-almutrafi"
+
 def handle():
     return {
         "name": "Ream Almutrafi",
-        "team": "Team 9",
-        "wants": "learn and improve",
+        "team": "9",
+        "wants": "to learn & improve in AI and Data engineering",
     }
